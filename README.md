@@ -1,3 +1,3 @@
 # ToneTinker
 ToneTinker is an easy to use program that helps you install and manage all of you your ReShade installations and packages via one unified UI   
-To get started, pick a topic from the right or download the package.
+For more information, please head over to the wiki here: https://github.com/snomsionius/ToneTinker/wiki
