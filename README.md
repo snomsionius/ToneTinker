@@ -3,7 +3,7 @@
 ## YOU WILL GET A VIRUS WARNING   
 I hope that I can fix that in a future release.   
 It will be flagged as Trojan:Win32/Sabsik.FL.A!ml by windows defender and tell you that it is dangerous.   
-I guess that this comes from the program logging mouse movements and mouse actions such clicking to control certain ##### elements of the application.
+I guess that this comes from the program logging mouse movements and mouse actions such clicking to control certain elements of the application.
 
 ### What should you do ?   
 1. Keep calm as the program is harmless.
