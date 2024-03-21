@@ -1,5 +1,10 @@
-# ToneTinker - ReShade package & effects manager 
+# ToneTinker - ReShade package & effects manager    
+   
+ToneTinker is an easy to use program that helps you install and manage all of you your ReShade installations and packages via one unified UI.   
+For more information, please head over to the wiki here: https://github.com/snomsionius/ToneTinker/wiki
 
+       
+   
 ## YOU WILL GET A VIRUS WARNING   
 I hope that I can fix that in a future release.   
 It will be flagged as Trojan:Win32/Sabsik.FL.A!ml by windows defender and tell you that it is dangerous.   
@@ -12,6 +17,3 @@ I guess that this comes from the program logging mouse movements and mouse actio
 4. If you know python, you can review the code too. I will add it to the repository once I reformatted and commented it.   
 
 
-
-ToneTinker is an easy to use program that helps you install and manage all of you your ReShade installations and packages via one unified UI.   
-For more information, please head over to the wiki here: https://github.com/snomsionius/ToneTinker/wiki
