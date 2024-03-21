@@ -1,0 +1,17 @@
+{"Header":"+ Adventure",
+"Header2":"Main Deck",
+"Notify": "Pick a treasure on the left or add\n a treasure. After that, ye can\n click on the treasure\n to see information and actions.",
+"Packs": " + Pirate Codes & Mysteries",
+"Preset": "+ Pirate Code",
+"Index": "Installed Pirate Codes",
+"Delete": "Abandon",
+"Installmsg1": "Pick a Zip, ye scurvy dog.",
+"Installmsg2": "Pick a ZIP that contains only CONFIGURATION FILES, arr!",
+"Installmsg3": "The following has been buried:\n",
+"Installmsg4": "The following scrolls were already part of the treasure map:\n",
+"Theme": "Colour Code",
+"Language": "Change the Tongue?",
+"Reset": "Reset the Ship's Log",
+"Settings": "Ship's Configurations",
+"Change": "Tongue missing? Learn how to add one on GitHub"
+}
