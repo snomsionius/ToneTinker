@@ -1,4 +1,4 @@
-# ToneTinker
+# ToneTinker - ReShade packakge & effects manager 
 
 ## YOU WILL GET A VIRUS WARNING   
 I hope that I can fix that in a future release.   
