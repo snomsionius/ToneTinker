@@ -9,6 +9,10 @@ For more information, please head over to the wiki here: https://github.com/snom
 - Install ReShade Packages and Presets.
 - Install needed tools from menu.
 - Release notifications in main menu.
+- Language options.
+- Design options.
+- Broad compatibility.
+  
   
 ## Planned updates:   
 
